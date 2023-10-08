@@ -1,6 +1,6 @@
 # Angular-frontend
 
-### The backend can be found here https://github.com/charandvvk/ShoppersDestiny-backend
+### The backend can be found here https://github.com/charandvvk/shoppers-destiny-backend
 ### Nginx and AWS have been used to deploy at http://3.108.150.52/
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.2.
